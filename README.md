@@ -1,4 +1,7 @@
 # dooboo-cli
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dooboolab/dooboo-cli.svg)](https://greenkeeper.io/)
+
 <p align="left">
   <a href="https://npmjs.org/package/dooboo-cli"><img alt="npm version" src="http://img.shields.io/npm/v/dooboo-cli.svg?style=flat-square"></a>
   <a href="https://npmjs.org/package/dooboo-cli"><img alt="npm version" src="http://img.shields.io/npm/dm/dooboo-cli.svg?style=flat-square"></a>
